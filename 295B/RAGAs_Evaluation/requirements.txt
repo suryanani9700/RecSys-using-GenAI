@@ -1,0 +1,10 @@
+pandas
+datasets
+ragas
+langchain-openai
+openai
+nltk
+langchain
+langchain-community
+faiss-cpu
+tqdm

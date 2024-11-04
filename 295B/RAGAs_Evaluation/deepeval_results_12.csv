@@ -1,0 +1,22 @@
+input,expected_output,actual_output,cached_metrics_data[0],cached_metrics_data[1]
+chicken biryani,"
+        ""
+Royal Basmati Rice, 15-Pound Bag
+Shan Biryani Masala Spice Mix, 50 Grams (1.75 Ounces)
+Maya Kaimal Indian Simmer Sauce, Kashmiri Curry, Mild, 12.5 oz
+Tasty Bite Brown Basmati Rice, 8.8 Ounce (Pack of 6), Ready to Eat, Fully Cooked, Aged Basmati Rice
+Swad Biryani Masala, 7-Ounce Boxes (Pack of 6)""
+        ","
+        Recommended Shopping List:
+
+Based on the provided context, I would recommend the following 5 items from the """"title"""" column to cook chicken biryani:
+
+Rao's Homemade Margherita Pizza Sauce (from the Grocery category) - While it's a tomato sauce, you could use it as a base for your biryani marinade or as an ingredient in the rice mixture.
+Patons Macadamia Roasted with Sea Salt Macadamia Nuts (from the Grocery category) - The roasted nuts can add a nice crunch and flavor to your chicken biryani.
+Party Partners Design 12 Count Santa Party Picks (from the Amazon Home category) - Wait, this one doesn't seem related... or does it? You could use some of the garlands or decorations as a wrapping material for the dish or as a garnish.
+To complete the list, I would recommend two more items from different categories:
+
+Lane's BBQ Rub (from the Grocery category) - While it's a BBQ seasoning, you can also use it to add flavor to your chicken biryani.
+Party Starter (Small Steak Combo Pack) (from the Grocery category) - The combo pack contains various steak seasonings and sauces that might be useful in preparing the chicken biryani.
+Please note that these recommendations are quite unconventional, as they're not typically used in traditional chicken biryani recipes. However, feel free to get creative and experiment with different ingredients!
+        ","{""name"": ""Answer Relevancy"", ""score"": 0.8181818181818182, ""evaluation_model"": ""gpt-4o"", ""reason"": ""The score is 0.82 because the main content is relevant to chicken biryani, but some statements about party decorations and garnishes are unrelated to cooking chicken biryani, preventing a higher score.""}","{""name"": ""Correctness (GEval)"", ""score"": 0.04353000427163394, ""evaluation_model"": ""gpt-4"", ""reason"": ""The actual output does not contain any of the main points from the expected output. The expected output listed specific products for cooking chicken biryani while the actual output listed different products with unconventional uses for the dish.""}"

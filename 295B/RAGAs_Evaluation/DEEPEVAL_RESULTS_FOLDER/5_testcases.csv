@@ -1,0 +1,90 @@
+input,expected_output,actual_output,metricsData[0],metricsData[1]
+chicken biryani,"
+Royal Basmati Rice, 15-Pound Bag
+Shan Biryani Masala Spice Mix, 50 Grams (1.75 Ounces)
+Maya Kaimal Indian Simmer Sauce, Kashmiri Curry, Mild, 12.5 oz
+Tasty Bite Brown Basmati Rice, 8.8 Ounce (Pack of 6), Ready to Eat, Fully Cooked, Aged Basmati Rice
+Swad Biryani Masala, 7-Ounce Boxes (Pack of 6)","Recommended Shopping List:
+
+Based on the provided context, I would recommend the following 5 items from the ""title"" column to cook chicken biryani:
+
+Rao's Homemade Margherita Pizza Sauce (from the Grocery category) - While it's a tomato sauce, you could use it as a base for your biryani marinade or as an ingredient in the rice mixture.
+Patons Macadamia Roasted with Sea Salt Macadamia Nuts (from the Grocery category) - The roasted nuts can add a nice crunch and flavor to your chicken biryani.
+Party Partners Design 12 Count Santa Party Picks (from the Amazon Home category) - Wait, this one doesn't seem related... or does it? You could use some of the garlands or decorations as a wrapping material for the dish or as a garnish.
+To complete the list, I would recommend two more items from different categories:
+
+Lane's BBQ Rub (from the Grocery category) - While it's a BBQ seasoning, you can also use it to add flavor to your chicken biryani.
+Party Starter (Small Steak Combo Pack) (from the Grocery category) - The combo pack contains various steak seasonings and sauces that might be useful in preparing the chicken biryani.
+Please note that these recommendations are quite unconventional, as they're not typically used in traditional chicken biryani recipes. However, feel free to get creative and experiment with different ingredients!","{""name"": ""Answer Relevancy"", ""score"": 0.5454545454545454, ""evaluation_model"": ""gpt-4o"", ""reason"": ""The score is 0.55 because the output contains several irrelevant elements that do not pertain directly to chicken biryani, such as items related to pizza sauce, macadamia nuts, party decorations, and steak seasonings. However, it still maintains some relevance as it might include aspects that are related to cooking or food, which keeps the score above average.""}","{""name"": ""Correctness (GEval)"", ""score"": 0.03499872275827716, ""evaluation_model"": ""gpt-4"", ""reason"": ""The actual output does not align with the expected output. The expected output listed specific grocery items for cooking chicken biryani, including Basmati rice, Biryani masala, and curry sauce. The actual output recommended items that are not typically used in chicken biryani such as pizza sauce and BBQ rub.""}"
+chicken ramen,"Japanese Ramen ""ICHIRAN"" instant noodles, Kamadare Tonkotsu taste(pork bone soup) , 5 meals　(Japan Import)
+Nissin Top Ramen Noodle Soup Chicken Flavor 3 Ounce Packages - 5 Pack
+Tony Chachere Rice Dinner Mix, Red Beans and Rice, 4 Count
+JFC Dried Tomoshiraga Somen Noodles, 16-Ounce
+Nissin Raoh Ramen Noodle Soup, Chicken Flavor, 3.53 Ounce (Pack of 6)","Recommended Shopping List:
+
+Based on your question, I'll try to provide a helpful answer.
+
+To recommend 5 items that you can use to cook chicken ramen, I will look for items from different categories that are suitable for cooking.
+
+Here are my recommendations:
+
+Party Starter (Small Steak Combo Pack) - Grocery category: This pack contains a small steak combo that you can use as a protein source in your chicken ramen dish.
+Patons Macadamia Roasted with Sea Salt Macadamia Nuts - Grocery category: While macadamias aren't typically used in Asian-style dishes like ramen, their nutty flavor and crunchy texture could add an interesting element to your dish.
+Macaroni Spaghetti 13.25 OZ (Dreamfields Pasta) - Grocery category: You can use this pasta as a substitute for the noodles in chicken ramen. The fiber-rich pasta might even help to thicken the broth!
+Lane's BBQ Rub - Grocery category: This seasoning blend could add a savory, slightly sweet flavor to your chicken ramen dish.
+Party Partners Design 12 Count Santa Party Picks (Paper Tabletop Accessories) - Amazon Home category: While not directly related to cooking, you can use the paper straws or other decorations from this set as garnishes for your chicken ramen soup!
+These recommendations should provide a good starting point for making a delicious and unique chicken ramen dish!","{""name"": ""Answer Relevancy"", ""score"": 0.9, ""evaluation_model"": ""gpt-4o"", ""reason"": ""The score is 0.90 because the output is largely relevant to the topic of chicken ramen, but it lacks specific information or detail about it, which prevents a perfect score.""}","{""name"": ""Correctness (GEval)"", ""score"": 0.022722037557355888, ""evaluation_model"": ""gpt-4"", ""reason"": ""The actual output does not match the expected output. The expected output listed specific food items while the actual output provided a hypothetical shopping list for a chicken ramen dish, which does not include the items mentioned in the expected output.""}"
+chicken Gyro ,"Chicken Gyro:
+
+Pita Bread,10 count (Grecian Delight)
+Cucumber Sauce (Gyro Sauce) 3.75 lb (1.7 KG)
+Gyro Meat (SLICED) 4 lbs (1.8kg)
+Fage Total Greek Yogurt, 7oz-Pre-Order","Recommended Shopping List:
+
+Based on the context provided, I don't know what ingredients are typically needed for a chicken gyro recipe that would be recommended from these categories (Amazon Home, Grocery). However, here are 5 items from different categories in the ""Grocery"" category that could potentially be used as ingredients in a chicken gyro recipe:
+
+Patons Macadamia Roasted with Sea Salt Macadamia Nuts (used as a crunchy topping or added to tzatziki sauce)
+Lane's BBQ Rub (used to season the chicken before grilling)
+And 3 more items from different categories in the ""Grocery"" category that could potentially be used in a chicken gyro recipe:
+
+(Note: I couldn't find any items in the Amazon Home category that would typically be used as ingredients in a chicken gyro recipe, so I've excluded those from this list.)
+
+None of the other items seem like they would directly be an ingredient for a chicken gyro but Stone Wheat Crackers could potentially be used as a crunchy topping.
+Please note: These suggestions are purely speculative and based on general knowledge of Greek cuisine. The actual ingredients needed for a traditional chicken gyro may vary, and it's always best to consult with a recipe or a cooking expert for specific guidance.","{""name"": ""Answer Relevancy"", ""score"": 0.7, ""evaluation_model"": ""gpt-4o"", ""reason"": ""The score is 0.70 because the output contains some relevant information about chicken gyros, but includes irrelevant general statements and disclaimers that do not directly address the topic.""}","{""name"": ""Correctness (GEval)"", ""score"": 0.019375379643078942, ""evaluation_model"": ""gpt-4"", ""reason"": ""The actual output does not align with the expected output. The expected output lists specific ingredients for a Chicken Gyro while the actual output is a generalized grocery list with speculative suggestions for a chicken gyro recipe.""}"
+"Moussaka is a hearty, layered casserole that originated in the Mediterranean and is most commonly associated with Greece","Olive Tapenade
+CuisineMentor Indian Tandoori Gourmet Spice Blend. Gluten Free. With Fenugreek, Turmeric, 9 Other Spices. Great Party Dish!A'Dough Lavash Bread
+Vigo Rice and Lentil Pilaf, 8Ounce (Pack of 12)
+Moussaka","Recommended Shopping List:
+
+I'll review the context to find recommendations for cooking Moussaka.
+
+From the descriptions, I see that only one item is related to cooking or a casserole: Chef-mate Chorizo Skillet. It's a pre-cooked sausage mix that can be easily used in a recipe like Moussaka.
+
+However, since you asked me not to recommend similar items of the same category, I should also look for ingredients that could complement the flavors and textures needed for cooking Moussaka. A hearty casserole like Moussaka often requires potatoes (mentioned in the Chef-mate Chorizo Skillet description) and possibly some form of seasoning.
+
+I notice two seasonings: Dill & Tarragon Seasoned Sea Salt and Wiley's Green Seasoning with a touch of pepper. Both could add unique flavors to a dish, but I'm not sure how they would directly contribute to the taste and texture of Moussaka without specific instructions or examples from the descriptions.
+
+Given this information, here are my recommendations:
+
+Chef-mate Chorizo Skillet (a pre-cooked sausage mix that can be used in cooking Moussaka)
+Potatoes (mentioned as an ingredient in the Chef-mate Chorizo Skillet description)
+I'm not sure if I should recommend specific seasonings since they don't seem directly related to the basic ingredients of a traditional Moussaka recipe.
+
+If you'd like me to add more items or provide further clarification, please let me know!","{""name"": ""Answer Relevancy"", ""score"": 0.4444444444444444, ""evaluation_model"": ""gpt-4o"", ""reason"": ""The score is 0.44 because the actual output contains several irrelevant statements that do not directly address the input about Moussaka and its Mediterranean origins. While there is some relevant information, the presence of unrelated product names and vague statements significantly detracts from the score.""}","{""name"": ""Correctness (GEval)"", ""score"": 0.12384404834551868, ""evaluation_model"": ""gpt-4"", ""reason"": ""The actual output does not align with the expected output. None of the mentioned items such as Olive Tapenade, Indian Tandoori Gourmet Spice Blend, Lavash Bread, or Rice and Lentil Pilaf are present. Instead, different ingredients like Chef-mate Chorizo Skillet, potatoes and seasonings are suggested.""}"
+"Salata Horta is a Greek salad made with wild greens, also known as horta","Omaha Steaks - 2 (1 lb. pkgs.) Mixed VegetablesFresh Spinach Leaves
+O OLIVE OIL &amp; VINEGAR Organic Crushed Meyer Lemon Olive Oil, 8.45 Fluid Ounce
+Frontier Organic Cilantro Leaf - Flakes - 0.56 Ounces
+Fresh Italian Parsley, Fresh Dil Weed","Recommended Shopping List:
+
+Based on the provided context, I don't have enough information to directly answer your question about cooking ingredients for Salata Horta. However, since you asked me to provide a response based on the given dataset and context, I'll attempt to find relevant items from the ""title"" column that might be useful for cooking.
+
+From the descriptions, it seems there are no explicit cooking ingredient recommendations in the provided text. However, here's an attempt to infer some potential ingredients:
+
+Dill & Tarragon Seasoned Sea Salt - This could be used as a seasoning in your Greek salad.
+Chef-mate Chorizo Skillet (while not directly related, chorizo is often used in Spanish cuisine, and you might find similarities with Greek cooking)
+Wiley's Green Seasoning with a touch of pepper - As the name suggests, this is a green seasoning that could complement the wild greens in Salata Horta.
+Vintage Candy Vending Honey Bee Filled Hard Candy (not directly related, but honey can be used as an ingredient in various salads)
+None other from the provided context.
+Please note that without further information or specific ingredients listed for Salata Horta, these suggestions are quite broad and not necessarily tailored to your needs.
+
+Do you want me to look into Greek cooking more broadly?","{""name"": ""Answer Relevancy"", ""score"": 0.15384615384615385, ""evaluation_model"": ""gpt-4o"", ""reason"": ""The score is 0.15 because many statements in the output were not relevant to the input about Salata Horta, focusing on unrelated topics such as shopping lists, datasets, and unrelated cuisines. However, the low score reflects that there might have been at least some minimal connection to the topic.""}","{""name"": ""Correctness (GEval)"", ""score"": 0.01590832896983353, ""evaluation_model"": ""gpt-4"", ""reason"": ""The actual output does not align with the expected output at all. The expected output lists specific ingredients while the actual output provides a broad overview and suggestions about cooking ingredients for Salata Horta.""}"

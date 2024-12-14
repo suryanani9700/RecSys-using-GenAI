@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+python-dotenv
+requests
+langchain-community
+langchain-openai
+streamlit
+=======
+streamlit
+
+>>>>>>> adding local_conversion of part1 code

@@ -1,0 +1,7 @@
+streamlit
+langchain==0.3.7
+langchain_community
+openai
+tiktoken
+faiss-gpu
+faiss-cpu
